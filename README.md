@@ -4,4 +4,4 @@
 
 * [Jurnal ITATS](http://jurnal.itats.ac.id/grammatical-evolution-untuk-ekstraksi-fitur-dengan-pengukuran-multi-fitness/)
 
-* [Proceeding Snasti](https://github.com/goFrendiAsgard/myresearch/blob/master/snasti.pdf)
+* [Proceeding Snasti](https://github.com/goFrendiAsgard/myresearch/blob/master/snasti.pdf?raw=true)
